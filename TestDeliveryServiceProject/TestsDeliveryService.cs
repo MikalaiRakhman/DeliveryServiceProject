@@ -4,7 +4,7 @@ using DeliveryServiceProject.ItemsDelivery;
 namespace TestDeliveryServiceProject
 {
     [TestClass]
-    public class UnitTest1
+    public class TestsDeliveryService
     {
         [TestMethod]
         public void CheckValidNamePositive()
